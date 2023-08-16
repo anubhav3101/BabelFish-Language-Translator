@@ -1,2 +1,2 @@
 # BabelFish-Language-Translator
-It is a machine learning project that converts french to english using CNN algorithm. 
+It is a deep learning project that converts french to english using RNN algorithm. 
